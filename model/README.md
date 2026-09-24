@@ -1,0 +1,1 @@
+This directory contains a Simulink model of the system we're building.
